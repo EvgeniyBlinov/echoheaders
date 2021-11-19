@@ -1,6 +1,6 @@
 # VERSION
 
-`eva-dock.sberned.ru/devops/echoserver-logs:1.4-400c27a`
+`echoserver-logs:1.4-400c27a`
 
 ### Description
 
